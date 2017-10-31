@@ -1,3 +1,10 @@
+# These are the list of all the things
+# which git should exclude
+# while tracing.
+# These list may not be complete.
+# So Everyone is required to update
+# as soon as you found any error.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
